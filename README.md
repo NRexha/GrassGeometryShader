@@ -18,4 +18,4 @@ The shader includes some adjustable parameters to tweak the look and feel of the
 - Valorexe's logic: https://github.com/Velorexe/unity-geometry-grass-shader
 - Daniel Ilette grass geometry shader video: https://www.youtube.com/@danielilett
 - Unity Studio Scene from : https://nebulaanimations.gumroad.com/l/ShaderCalibrationRemastered
-- Thanks to Jonas and Franck fro the feed-backs and helpful tips
+- Thanks to Jonas and Franck for the feedbacks and helpful tips
